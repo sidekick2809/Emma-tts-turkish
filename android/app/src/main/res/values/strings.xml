@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Emma</string>
+    <string name="process_text_action_name">Emma ile Oku</string>
+    <string name="action_read">Seslendir</string>
+    <string name="action_stop">Durdur</string>
+    <string name="action_clear">Temizle</string>
+    <string name="action_paste">Yapıştır</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="action_history">Geçmiş</string>
+    <string name="settings_title">Ses &amp; Motor Ayarları</string>
+    <string name="text_input_placeholder">Okunacak metni buraya yazın veya herhangi bir uygulamadan metin seçip Emma ile paylaşın…</string>
+    <string name="empty_text_warning">Lütfen önce seslendirilecek bir metin girin.</string>
+    <string name="status_speaking">Seslendiriliyor…</string>
+    <string name="status_ready">Hazır</string>
+    <string name="auto_play_on_share">Paylaşınca otomatik oku</string>
+</resources>

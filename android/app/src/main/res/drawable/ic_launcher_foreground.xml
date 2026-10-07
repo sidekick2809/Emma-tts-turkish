@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Sound wave and speech bubble stylized icon for Emma -->
+    <!-- Outer sound wave ring -->
+    <path
+        android:strokeColor="#7C4DFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M30,54 C30,41 41,30 54,30 C67,30 78,41 78,54 C78,67 67,78 54,78" />
+    <!-- Audio Wave Bars inside -->
+    <path
+        android:fillColor="#FF6B6B"
+        android:pathData="M44,46 h4 v16 h-4 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,38 h4 v32 h-4 z" />
+    <path
+        android:fillColor="#4ECDC4"
+        android:pathData="M60,44 h4 v20 h-4 z" />
+    <!-- Small microphone / voice dot -->
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M54,74 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+</vector>
