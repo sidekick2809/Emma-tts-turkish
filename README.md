@@ -87,3 +87,4 @@ Bu betik projeyi derler ve güncel APK'yı doğrudan ana dizindeki `Emma.apk` do
 4. İsterseniz uygulama içindeki **Ayarlar (Çark)** menüsünden ses tonunu değiştirebilir veya daha yüksek kaliteli Google ses paketlerini cihazınıza indirebilirsiniz.
 # Emma-Turkish-TTS
 # Emma-Turkish-TTS
+# Emma-Turkish-TTS
