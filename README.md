@@ -88,3 +88,4 @@ Bu betik projeyi derler ve güncel APK'yı doğrudan ana dizindeki `Emma.apk` do
 # Emma-Turkish-TTS
 # Emma-Turkish-TTS
 # Emma-Turkish-TTS
+# Emma-Turkish-TTS
