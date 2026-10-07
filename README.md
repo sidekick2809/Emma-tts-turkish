@@ -86,3 +86,4 @@ Bu betik projeyi derler ve güncel APK'yı doğrudan ana dizindeki `Emma.apk` do
 3. Metin anında cihaz içi seslendiriciyle Türkçe olarak okunmaya başlayacaktır!
 4. İsterseniz uygulama içindeki **Ayarlar (Çark)** menüsünden ses tonunu değiştirebilir veya daha yüksek kaliteli Google ses paketlerini cihazınıza indirebilirsiniz.
 # Emma-Turkish-TTS
+# Emma-Turkish-TTS
